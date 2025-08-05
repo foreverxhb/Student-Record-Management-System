@@ -48,3 +48,4 @@ Follow on-screen menu options to interact with the system.
 
 #Sample Image:
 
+https://github.com/foreverxhb/Student-Record-Management-System/blob/ce501109dac4483432d6459e00271d3fe3843f8e/Screenshot%202025-08-05%20210420.png
